@@ -5,7 +5,7 @@ const fs = require('fs');
 const readableStreamForFile = fs.createReadStream('./black1.gif');
 const options = {
     pinataMetadata: {
-        name: blacktest,
+        name: 'blacktest',
         keyvalues: {
             stars: '4',
             blackhole: 'yes'
