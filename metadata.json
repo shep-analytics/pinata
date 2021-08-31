@@ -1,104 +1,1102 @@
-{
-    "metadata": [
-        {
-            "background": "aspen street",
-            "fur": "black",
-            "eyes": "Green"
-        },
-        {
-            "background": "igloo",
-            "fur": "Crazy stripes",
-            "eyes": "Superman"
-        },
-        {
-            "background": "snow forest",
-            "fur": "Snow",
-            "eyes": "Yellow"
-        },
-        {
-            "background": "mars",
-            "fur": "Light tree",
-            "eyes": "Red"
-        },
-        {
-            "background": "mars",
-            "fur": "light brown",
-            "eyes": "Superman"
-        },
-        {
-            "background": "future mall",
-            "fur": "Rusty",
-            "eyes": "Hazel"
-        },
-        {
-            "background": "island",
-            "fur": "neon orange",
-            "eyes": "Pink"
-        },
-        {
-            "background": "kitchen",
-            "fur": "black",
-            "eyes": "Green"
-        },
-        {
-            "background": "mars",
-            "fur": "light orange",
-            "eyes": "Purple"
-        },
-        {
-            "background": "kitchen",
-            "fur": "MysticChrome",
-            "eyes": "Green"
-        },
-        {
-            "background": "yacht",
-            "fur": "Chocolate",
-            "eyes": "Blue"
-        },
-        {
-            "background": "igloo",
-            "fur": "neon red",
-            "eyes": "Red"
-        },
-        {
-            "background": "yacht",
-            "fur": "Dark polka-dots",
-            "eyes": "Hazel"
-        },
-        {
-            "background": "beach",
-            "fur": "Snow",
-            "eyes": "Glow eyes"
-        },
-        {
-            "background": "mars",
-            "fur": "neon orange",
-            "eyes": "Yellow"
-        },
-        {
-            "background": "aspen street",
-            "fur": "MysticChrome",
-            "eyes": "Superman"
-        },
-        {
-            "background": "aspen street",
-            "fur": "white",
-            "eyes": "Light blue"
-        },
-        {
-            "background": "beach",
-            "fur": "neon green",
-            "eyes": "Blue"
-        },
-        {
-            "background": "future mall",
-            "fur": "Copper",
-            "eyes": "Glow eyes"
-        },
-        {
-            "background": "jamaica",
-            "fur": "neon orange",
-            "eyes": "Hazel"
-        }
-    ]
-}
+[
+    {
+        "eyes": "Black",
+        "furs": "Dented Metal",
+        "backgrounds": "igloo",
+        "Neck": "Burgandy Baller Bowtie",
+        "Head": "Chocolate Factory",
+        "Eyewear": "Party Glasses (Green)",
+        "Hand": "Mojito",
+        "Earrings": "Round Studs",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Black",
+        "furs": "Moo",
+        "backgrounds": "igloo",
+        "Neck": "Lavender Baller Bowtie",
+        "Head": "Propeller Hat",
+        "Eyewear": "Bifocals",
+        "Hand": "Red Rose",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Blue",
+        "furs": "Dark Polka-Dot",
+        "backgrounds": "kitchen",
+        "Neck": "Glowstick Necklace",
+        "Head": "Halo",
+        "Eyewear": "Party Glasses (Blue)",
+        "Hand": "Hotdog",
+        "Earrings": "Donut",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Copper",
+        "backgrounds": "beach",
+        "Neck": "Tie (Blue)",
+        "Head": "Royal Crown",
+        "Eyewear": "Party Glasses (Green)",
+        "Hand": "Cave Dweller",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Superman",
+        "furs": "Neon Orange",
+        "backgrounds": "beach",
+        "Neck": "Gold Chain",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Ski Goggles",
+        "Hand": "Red Rose",
+        "Earrings": "Studs",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Dented Metal",
+        "backgrounds": "igloo",
+        "Neck": "Timekepper",
+        "Head": "Penguin",
+        "Eyewear": "Steampunk Goggles",
+        "Hand": "Birthday Horn",
+        "Earrings": "Studs",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Yellow",
+        "furs": "Black",
+        "backgrounds": "grass",
+        "Neck": "Tie (Red)",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Swimmers",
+        "Hand": "Honey Pot",
+        "Earrings": "Gold Hoops",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Dark Polka-Dot",
+        "backgrounds": "beach",
+        "Neck": "Christmas",
+        "Head": "Drivers Hat Blue",
+        "Eyewear": "Party Glasses (Green)",
+        "Hand": "Birthday Horn",
+        "Earrings": "Studs",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Gold",
+        "backgrounds": "igloo",
+        "Neck": "Party Beeds",
+        "Head": "Elf Hat",
+        "Eyewear": "Space Invadors",
+        "Hand": "Birthday Horn",
+        "Earrings": "Black Rings",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Cheese",
+        "backgrounds": "beach",
+        "Neck": "Large Christmas Lights",
+        "Head": "Pirate Hat",
+        "Eyewear": "The Defenders",
+        "Hand": "Red Rose",
+        "Earrings": "Spiked Studs",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Yellow",
+        "furs": "Classic",
+        "backgrounds": "future mall",
+        "Neck": "Spiked Collar",
+        "Head": "Top Hat",
+        "Eyewear": "Steampunk Goggles",
+        "Hand": "Cream Cola",
+        "Earrings": "Black Rings",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Alien Goo",
+        "backgrounds": "aspen street",
+        "Neck": "Large Christmas Lights",
+        "Head": "Burgandy Beanie",
+        "Eyewear": "The Defenders",
+        "Hand": "Cream Cola",
+        "Earrings": "Gold Bow",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Warewolf",
+        "furs": "Dark Polka-Dot",
+        "backgrounds": "igloo",
+        "Neck": "Timekepper",
+        "Head": "Pirate Hat",
+        "Eyewear": "The Defenders",
+        "Hand": "Oktoberfest",
+        "Earrings": "Beartrap",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Dark Aether",
+        "backgrounds": "aspen street",
+        "Neck": "Lei",
+        "Head": "Antlers",
+        "Eyewear": "New Years Glasses",
+        "Hand": "Mojito",
+        "Earrings": "Gold Hoops",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Party Pink",
+        "backgrounds": "moon",
+        "Neck": "Spiked Collar",
+        "Head": "Beer Bucket Hat",
+        "Eyewear": "Party Glasses (Green)",
+        "Hand": "Honey Pot",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Brown",
+        "furs": "Bumblebee",
+        "backgrounds": "island",
+        "Neck": "Tie (Blue)",
+        "Head": "Santa Hat",
+        "Eyewear": "Space Invadors",
+        "Hand": "Oktoberfest",
+        "Earrings": "Beartrap",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "NeoChrome",
+        "backgrounds": "city",
+        "Neck": "Bear Bandanna",
+        "Head": "Ice Crown",
+        "Eyewear": "Party Glasses (Red)",
+        "Hand": "Icicle",
+        "Earrings": "Bottle Caps",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Blue",
+        "furs": "Neon Orange",
+        "backgrounds": "kitchen",
+        "Neck": "Spiked Collar",
+        "Head": "Chocolate Factory",
+        "Eyewear": "Eyepatch",
+        "Hand": "Mojito",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Dented Metal",
+        "backgrounds": "mars",
+        "Neck": "Party Beeds",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Swimmers",
+        "Hand": "Cola",
+        "Earrings": "Heart",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Light Blue",
+        "furs": "Quartz",
+        "backgrounds": "beach",
+        "Neck": "Tie (Red)",
+        "Head": "Devil Horns",
+        "Eyewear": "Sixties",
+        "Hand": "Cave Dweller",
+        "Earrings": "Studs",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Hazel",
+        "furs": "Lemon Lime",
+        "backgrounds": "aspen street",
+        "Neck": "Gold Chain",
+        "Head": "Halo",
+        "Eyewear": "Aviators",
+        "Hand": "Apple Pie",
+        "Earrings": "Bottle Caps",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Moo",
+        "backgrounds": "city",
+        "Neck": "Tie (Black)",
+        "Head": "Ice Crown",
+        "Eyewear": "Ski Goggles",
+        "Hand": "Candy Cane",
+        "Earrings": "Round Studs",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Sky Blue",
+        "backgrounds": "tokyo",
+        "Neck": "Burgandy Baller Bowtie",
+        "Head": "Chocolate Factory",
+        "Eyewear": "Party Glasses (Red)",
+        "Hand": "Cola Pop",
+        "Earrings": "Beartrap",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Brown",
+        "furs": "Dented Metal",
+        "backgrounds": "mars",
+        "Neck": "Timekepper",
+        "Head": "BirthdayHat",
+        "Eyewear": "Sixties",
+        "Hand": "Hotdog",
+        "Earrings": "Spiked Studs",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Neon Green",
+        "backgrounds": "tokyo",
+        "Neck": "Lanyard",
+        "Head": "Ice Crown",
+        "Eyewear": "Party Glasses (Blue)",
+        "Hand": "Mojito",
+        "Earrings": "Gold Bow",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Glow eyes",
+        "furs": "Silver",
+        "backgrounds": "tokyo",
+        "Neck": "Lavender Baller Bowtie",
+        "Head": "Cowboy Hat",
+        "Eyewear": "Blu Blockers",
+        "Hand": "Mojito",
+        "Earrings": "Donut",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Warewolf",
+        "furs": "Lemon Lime",
+        "backgrounds": "city",
+        "Neck": "Lei",
+        "Head": "Burgandy Beanie",
+        "Eyewear": "Hollywood",
+        "Hand": "Cola Pop",
+        "Earrings": "Heart",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Brown",
+        "backgrounds": "aspen street",
+        "Neck": "Lavender Baller Bowtie",
+        "Head": "Top Hat",
+        "Eyewear": "Swimmers",
+        "Hand": "Cave Dweller",
+        "Earrings": "Heart",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Dark Polka-Dot",
+        "backgrounds": "beach",
+        "Neck": "Party Beeds",
+        "Head": "Pirate Hat",
+        "Eyewear": "Party Glasses (Blue)",
+        "Hand": "Apple Pie",
+        "Earrings": "Gold Bow",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Yellow",
+        "furs": "Sea Glass",
+        "backgrounds": "city",
+        "Neck": "Timekepper",
+        "Head": "Halo",
+        "Eyewear": "Aviators",
+        "Hand": "Oktoberfest",
+        "Earrings": "Heart",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Glow eyes",
+        "furs": "Neon Green",
+        "backgrounds": "kitchen",
+        "Neck": "Gold Chain",
+        "Head": "Christmas Glasses",
+        "Eyewear": "Eyepatch",
+        "Hand": "Icicle",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Black",
+        "furs": "Black",
+        "backgrounds": "aspen street",
+        "Neck": "Lei",
+        "Head": "Burgandy Beanie",
+        "Eyewear": "Steampunk Goggles",
+        "Hand": "Birthday Horn",
+        "Earrings": "Gold Hoops",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Honey",
+        "backgrounds": "grass",
+        "Neck": "Lei",
+        "Head": "Propeller Hat",
+        "Eyewear": "New Years Glasses",
+        "Hand": "Oktoberfest",
+        "Earrings": "Heart",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Black",
+        "furs": "Bumblebee",
+        "backgrounds": "jamaica",
+        "Neck": "Tie (Blue)",
+        "Head": "Santa Hat",
+        "Eyewear": "Party Glasses (Green)",
+        "Hand": "Oktoberfest",
+        "Earrings": "Heart",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Dented Metal",
+        "backgrounds": "mars",
+        "Neck": "Lavender Baller Bowtie",
+        "Head": "Antlers",
+        "Eyewear": "The Stockbrokers",
+        "Hand": "Oktoberfest",
+        "Earrings": "Beartrap",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Light Blue",
+        "furs": "Dented Metal",
+        "backgrounds": "tokyo",
+        "Neck": "Heart Locket",
+        "Head": "BirthdayHat",
+        "Eyewear": "Hollywood",
+        "Hand": "Candy Cane",
+        "Earrings": "Heart",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Rainbow",
+        "backgrounds": "moon",
+        "Neck": "Spiked Collar",
+        "Head": "BirthdayHat",
+        "Eyewear": "Hollywood",
+        "Hand": "Ice Cream",
+        "Earrings": "Studs",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Hazel",
+        "furs": "Party Pink",
+        "backgrounds": "tokyo",
+        "Neck": "Lei",
+        "Head": "Pirate Hat",
+        "Eyewear": "Party Glasses (Blue)",
+        "Hand": "Cola",
+        "Earrings": "Beartrap",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Coral",
+        "backgrounds": "kitchen",
+        "Neck": "Gold Chain",
+        "Head": "Santa Hat",
+        "Eyewear": "Hollywood",
+        "Hand": "Birthday Horn",
+        "Earrings": "Beartrap",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Red",
+        "furs": "Black",
+        "backgrounds": "beach",
+        "Neck": "Large Christmas Lights",
+        "Head": "Penguin",
+        "Eyewear": "Party Glasses (Red)",
+        "Hand": "Balloons",
+        "Earrings": "Gold Bow",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Light Blue",
+        "furs": "Alien Goo",
+        "backgrounds": "mars",
+        "Neck": "Christmas",
+        "Head": "Royal Crown",
+        "Eyewear": "Bookkeeper",
+        "Hand": "Cola Pop",
+        "Earrings": "Bottle Caps",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Dark Aether",
+        "backgrounds": "tokyo",
+        "Neck": "Christmas",
+        "Head": "Cowboy Hat",
+        "Eyewear": "The Stockbrokers",
+        "Hand": "Mojito",
+        "Earrings": "Heart",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Classic",
+        "backgrounds": "tokyo",
+        "Neck": "Large Christmas Lights",
+        "Head": "Burgandy Beanie",
+        "Eyewear": "Bifocals",
+        "Hand": "Apple Pie",
+        "Earrings": "Gold Bow",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Light Blue",
+        "furs": "Sea Glass",
+        "backgrounds": "jamaica",
+        "Neck": "Glowstick Necklace",
+        "Head": "Penguin",
+        "Eyewear": "Aviators",
+        "Hand": "Ice Cream",
+        "Earrings": "Spiked Studs",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Green",
+        "furs": "Chocolate",
+        "backgrounds": "mars",
+        "Neck": "Burgandy Baller Bowtie",
+        "Head": "Propeller Hat",
+        "Eyewear": "New Years Glasses",
+        "Hand": "Cola",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Red",
+        "furs": "Neon Red",
+        "backgrounds": "city",
+        "Neck": "Spiked Collar",
+        "Head": "Cowboy Hat",
+        "Eyewear": "Steampunk Goggles",
+        "Hand": "Mojito",
+        "Earrings": "Gold Hoops",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Green",
+        "furs": "Grizzly",
+        "backgrounds": "yacht",
+        "Neck": "Gold Chain",
+        "Head": "Royal Crown",
+        "Eyewear": "Bifocals",
+        "Hand": "Cave Dweller",
+        "Earrings": "Heart",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Rainbow",
+        "backgrounds": "mars",
+        "Neck": "Burgandy Baller Bowtie",
+        "Head": "Devil Horns",
+        "Eyewear": "Visionary",
+        "Hand": "Apple Pie",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Hazel",
+        "furs": "Sky Blue",
+        "backgrounds": "city",
+        "Neck": "Glowstick Necklace",
+        "Head": "Propeller Hat",
+        "Eyewear": "Visionary",
+        "Hand": "Cola Pop",
+        "Earrings": "Bottle Caps",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Charcoal",
+        "backgrounds": "future mall",
+        "Neck": "Large Christmas Lights",
+        "Head": "BirthdayHat",
+        "Eyewear": "New Years Glasses",
+        "Hand": "Oktoberfest",
+        "Earrings": "Donut",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Hazel",
+        "furs": "Black",
+        "backgrounds": "moon",
+        "Neck": "Tie (Blue)",
+        "Head": "Santa Hat",
+        "Eyewear": "Sixties",
+        "Hand": "Honey Pot",
+        "Earrings": "Gold Hoops",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Orange",
+        "furs": "Neon Red",
+        "backgrounds": "island",
+        "Neck": "Tie (Blue)",
+        "Head": "Beer Bucket Hat",
+        "Eyewear": "Space Invadors",
+        "Hand": "Hotdog",
+        "Earrings": "Black Rings",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Bumblebee",
+        "backgrounds": "mars",
+        "Neck": "Christmas",
+        "Head": "Antlers",
+        "Eyewear": "Bookkeeper",
+        "Hand": "Ice Cream",
+        "Earrings": "Heart",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Superman",
+        "furs": "Sea Glass",
+        "backgrounds": "yacht",
+        "Neck": "Tie (Black)",
+        "Head": "Christmas Glasses",
+        "Eyewear": "Space Invadors",
+        "Hand": "Cola",
+        "Earrings": "Bottle Caps",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Black",
+        "furs": "Neon Pink",
+        "backgrounds": "future mall",
+        "Neck": "Burgandy Baller Bowtie",
+        "Head": "Chocolate Factory",
+        "Eyewear": "Space Invadors",
+        "Hand": "Ice Cream",
+        "Earrings": "Beartrap",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Superman",
+        "furs": "Copper",
+        "backgrounds": "future mall",
+        "Neck": "Christmas",
+        "Head": "Santa Hat",
+        "Eyewear": "Party Glasses (Blue)",
+        "Hand": "Oktoberfest",
+        "Earrings": "Donut",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Blue",
+        "furs": "Brown",
+        "backgrounds": "moon",
+        "Neck": "Heart Locket",
+        "Head": "Ice Crown",
+        "Eyewear": "Hollywood",
+        "Hand": "Icicle",
+        "Earrings": "Gold Bow",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Blue",
+        "furs": "Black",
+        "backgrounds": "igloo",
+        "Neck": "Glowstick Necklace",
+        "Head": "Pirate Hat",
+        "Eyewear": "The Defenders",
+        "Hand": "Hotdog",
+        "Earrings": "Studs",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Sea Glass",
+        "backgrounds": "mars",
+        "Neck": "Glowstick Necklace",
+        "Head": "Devil Horns",
+        "Eyewear": "Steampunk Goggles",
+        "Hand": "Icicle",
+        "Earrings": "Gold Hoops",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Charcoal",
+        "backgrounds": "tokyo",
+        "Neck": "Lavender Baller Bowtie",
+        "Head": "Christmas Glasses",
+        "Eyewear": "The Stockbrokers",
+        "Hand": "Cola",
+        "Earrings": "Beartrap",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Brown",
+        "furs": "Black",
+        "backgrounds": "beach",
+        "Neck": "Spiked Collar",
+        "Head": "Beer Bucket Hat",
+        "Eyewear": "Sixties",
+        "Hand": "Cola Pop",
+        "Earrings": "Studs",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Brown",
+        "furs": "Party Pink",
+        "backgrounds": "island",
+        "Neck": "Lei",
+        "Head": "Ice Crown",
+        "Eyewear": "Party Glasses (Red)",
+        "Hand": "Ice Cream",
+        "Earrings": "Gold Hoops",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Glow eyes",
+        "furs": "Dark Aether",
+        "backgrounds": "city",
+        "Neck": "Gold Chain",
+        "Head": "Royal Crown",
+        "Eyewear": "Space Invadors",
+        "Hand": "Cave Dweller",
+        "Earrings": "Studs",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Warewolf",
+        "furs": "MysticChrome",
+        "backgrounds": "mars",
+        "Neck": "Gold Chain",
+        "Head": "Propeller Hat",
+        "Eyewear": "Ski Goggles",
+        "Hand": "Balloons",
+        "Earrings": "Heart",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Blue",
+        "furs": "Coral",
+        "backgrounds": "tokyo",
+        "Neck": "Glowstick Necklace",
+        "Head": "Ice Crown",
+        "Eyewear": "Swimmers",
+        "Hand": "Candy Cane",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Hazel",
+        "furs": "Honey",
+        "backgrounds": "kitchen",
+        "Neck": "Glowstick Necklace",
+        "Head": "Chocolate Factory",
+        "Eyewear": "Bifocals",
+        "Hand": "Icicle",
+        "Earrings": "Round Studs",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Orange",
+        "furs": "Bumblebee",
+        "backgrounds": "grass",
+        "Neck": "Tie (Red)",
+        "Head": "Halo",
+        "Eyewear": "Sixties",
+        "Hand": "Icicle",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Strawberry Milk",
+        "backgrounds": "jamaica",
+        "Neck": "Spiked Collar",
+        "Head": "Halo",
+        "Eyewear": "Party Glasses (Blue)",
+        "Hand": "Oktoberfest",
+        "Earrings": "Gold Hoops",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Dented Metal",
+        "backgrounds": "island",
+        "Neck": "Christmas",
+        "Head": "Ice Crown",
+        "Eyewear": "Hollywood",
+        "Hand": "Honey Pot",
+        "Earrings": "Beartrap",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Brown",
+        "furs": "Classic",
+        "backgrounds": "future mall",
+        "Neck": "Bear Bandanna",
+        "Head": "Penguin",
+        "Eyewear": "The Defenders",
+        "Hand": "Honey Pot",
+        "Earrings": "Beartrap",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Rusty",
+        "backgrounds": "mars",
+        "Neck": "Party Beeds",
+        "Head": "Burgandy Beanie",
+        "Eyewear": "Visionary",
+        "Hand": "Oktoberfest",
+        "Earrings": "Donut",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Warewolf",
+        "furs": "Gold",
+        "backgrounds": "yacht",
+        "Neck": "Heart Locket",
+        "Head": "Ice Crown",
+        "Eyewear": "Hollywood",
+        "Hand": "Cream Cola",
+        "Earrings": "Donut",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Alien Goo",
+        "backgrounds": "yacht",
+        "Neck": "Tie (Blue)",
+        "Head": "Beer Bucket Hat",
+        "Eyewear": "The Stockbrokers",
+        "Hand": "Red Rose",
+        "Earrings": "Bottle Caps",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Neon Red",
+        "backgrounds": "snow forest",
+        "Neck": "Party Beeds",
+        "Head": "Cowboy Hat",
+        "Eyewear": "Hollywood",
+        "Hand": "Beer Bottle",
+        "Earrings": "Gold Bow",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Black",
+        "furs": "Charcoal",
+        "backgrounds": "beach",
+        "Neck": "Tie (Black)",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Hollywood",
+        "Hand": "Candy Cane",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Treebear",
+        "backgrounds": "grass",
+        "Neck": "Party Beeds",
+        "Head": "BirthdayHat",
+        "Eyewear": "Visionary",
+        "Hand": "Balloons",
+        "Earrings": "Bottle Caps",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Ceramic",
+        "backgrounds": "grass",
+        "Neck": "Tie (Black)",
+        "Head": "Cowboy Hat",
+        "Eyewear": "Blu Blockers",
+        "Hand": "Beer Bottle",
+        "Earrings": "Gold Hoops",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Black",
+        "furs": "Bumblebee",
+        "backgrounds": "tokyo",
+        "Neck": "Party Beeds",
+        "Head": "Drivers Hat Blue",
+        "Eyewear": "The Stockbrokers",
+        "Hand": "Mojito",
+        "Earrings": "Round Studs",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Red",
+        "furs": "Rainbow",
+        "backgrounds": "moon",
+        "Neck": "Lavender Baller Bowtie",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Party Glasses (Red)",
+        "Hand": "Cola",
+        "Earrings": "Black Rings",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Gummy",
+        "backgrounds": "city",
+        "Neck": "Tie (Black)",
+        "Head": "Santa Hat",
+        "Eyewear": "Sixties",
+        "Hand": "Honey Pot",
+        "Earrings": "Gold Hoops",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Green",
+        "furs": "Rainbow",
+        "backgrounds": "mars",
+        "Neck": "Lavender Baller Bowtie",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Aviators",
+        "Hand": "Beer Bottle",
+        "Earrings": "Heart",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Black",
+        "furs": "Honey",
+        "backgrounds": "beach",
+        "Neck": "Tie (Red)",
+        "Head": "Cowboy Hat",
+        "Eyewear": "New Years Glasses",
+        "Hand": "Apple Pie",
+        "Earrings": "Beartrap",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Green",
+        "furs": "Sea Glass",
+        "backgrounds": "mars",
+        "Neck": "Timekepper",
+        "Head": "Santa Hat",
+        "Eyewear": "3D Glasses",
+        "Hand": "Hotdog",
+        "Earrings": "Donut",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Brown",
+        "furs": "Neon Orange",
+        "backgrounds": "mars",
+        "Neck": "Large Christmas Lights",
+        "Head": "Pirate Hat",
+        "Eyewear": "Party Glasses (Green)",
+        "Hand": "Cave Dweller",
+        "Earrings": "Gold Bow",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Zooted",
+        "furs": "Neon Blue",
+        "backgrounds": "moon",
+        "Neck": "Tie (Black)",
+        "Head": "Chocolate Factory",
+        "Eyewear": "Bifocals",
+        "Hand": "Red Rose",
+        "Earrings": "Donut",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Green",
+        "furs": "Sea Glass",
+        "backgrounds": "tokyo",
+        "Neck": "Spiked Collar",
+        "Head": "Christmas Glasses",
+        "Eyewear": "Hollywood",
+        "Hand": "Candy Cane",
+        "Earrings": "Black Rings",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Superman",
+        "furs": "Dark Polka-Dot",
+        "backgrounds": "future mall",
+        "Neck": "Party Beeds",
+        "Head": "Penguin",
+        "Eyewear": "Steampunk Goggles",
+        "Hand": "Icicle",
+        "Earrings": "Donut",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Hazel",
+        "furs": "Rusty",
+        "backgrounds": "snow forest",
+        "Neck": "Glowstick Necklace",
+        "Head": "Burgandy Beanie",
+        "Eyewear": "Party Glasses (Green)",
+        "Hand": "Apple Pie",
+        "Earrings": "Beartrap",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Brown",
+        "furs": "Neon Orange",
+        "backgrounds": "grass",
+        "Neck": "Christmas",
+        "Head": "Propeller Hat",
+        "Eyewear": "Blu Blockers",
+        "Hand": "Cream Cola",
+        "Earrings": "Round Studs",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Dark Aether",
+        "backgrounds": "kitchen",
+        "Neck": "Heart Locket",
+        "Head": "Cowboy Hat",
+        "Eyewear": "Eyepatch",
+        "Hand": "Balloons",
+        "Earrings": "Black Rings",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Sky Blue",
+        "backgrounds": "jamaica",
+        "Neck": "Glowstick Necklace",
+        "Head": "Beer Bucket Hat",
+        "Eyewear": "Hollywood",
+        "Hand": "Balloons",
+        "Earrings": "Beartrap",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Warewolf",
+        "furs": "Snow",
+        "backgrounds": "island",
+        "Neck": "Large Christmas Lights",
+        "Head": "Propeller Hat",
+        "Eyewear": "Steampunk Goggles",
+        "Hand": "Hotdog",
+        "Earrings": "Gold Hoops",
+        "Badges": "Maple Mountains"
+    },
+    {
+        "eyes": "Vampire",
+        "furs": "Moo",
+        "backgrounds": "jamaica",
+        "Neck": "Spiked Collar",
+        "Head": "BirthdayHat",
+        "Eyewear": "3D Glasses",
+        "Hand": "Oktoberfest",
+        "Earrings": "Gold Bow",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Dark Polka-Dot",
+        "backgrounds": "aspen street",
+        "Neck": "Lei",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Eyepatch",
+        "Hand": "Balloons",
+        "Earrings": "Donut",
+        "Badges": "Rasta Rainforest"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Coral",
+        "backgrounds": "jamaica",
+        "Neck": "Bear Bandanna",
+        "Head": "Steampunk Hat",
+        "Eyewear": "Sixties",
+        "Hand": "Apple Pie",
+        "Earrings": "Round Studs",
+        "Badges": "Viking Valley"
+    },
+    {
+        "eyes": "Red",
+        "furs": "Snow",
+        "backgrounds": "moon",
+        "Neck": "Glowstick Necklace",
+        "Head": "Pirate Hat",
+        "Eyewear": "Blu Blockers",
+        "Hand": "Apple Pie",
+        "Earrings": "Gold Hoops",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Hazel",
+        "furs": "Classic",
+        "backgrounds": "igloo",
+        "Neck": "Lei",
+        "Head": "Halo",
+        "Eyewear": "Blu Blockers",
+        "Hand": "Birthday Horn",
+        "Earrings": "Spiked Studs",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Blue",
+        "furs": "Charcoal",
+        "backgrounds": "grass",
+        "Neck": "Large Christmas Lights",
+        "Head": "Penguin",
+        "Eyewear": "Ski Goggles",
+        "Hand": "Balloons",
+        "Earrings": "Tripple Hoops",
+        "Badges": "Glacier Falls"
+    },
+    {
+        "eyes": "Purple",
+        "furs": "Ceramic",
+        "backgrounds": "jamaica",
+        "Neck": "Tie (Blue)",
+        "Head": "Cowboy Hat",
+        "Eyewear": "Party Glasses (Blue)",
+        "Hand": "Hotdog",
+        "Earrings": "Black Rings",
+        "Badges": "Candy Corridor"
+    },
+    {
+        "eyes": "Pink",
+        "furs": "Coral",
+        "backgrounds": "tokyo",
+        "Neck": "Timekepper",
+        "Head": "Penguin",
+        "Eyewear": "Bifocals",
+        "Hand": "Oktoberfest",
+        "Earrings": "Gold Bow",
+        "Badges": "Candy Corridor"
+    }
+]
